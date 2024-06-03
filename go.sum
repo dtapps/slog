@@ -1,0 +1,4 @@
+go.dtapp.net/gotime v1.0.11 h1:VAmi1kFhkwJweIujeUOWf16wSmAZd4VyhyD25ku/J2Y=
+go.dtapp.net/gotime v1.0.11/go.mod h1:BQT911XSfaJDBYPiEKGFwMjvgnZtx1F3nWu4GTg5ISY=
+gopkg.in/natefinch/lumberjack.v2 v2.2.1 h1:bBRl1b0OH9s/DuPhuXpNl+VtCaJXFZ5/uEFST95x9zc=
+gopkg.in/natefinch/lumberjack.v2 v2.2.1/go.mod h1:YD8tP3GAjkrDg1eZH7EGmyESg/lsYskCTPBJVb9jqSc=

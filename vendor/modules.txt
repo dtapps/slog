@@ -1,0 +1,6 @@
+# go.dtapp.net/gotime v1.0.11
+## explicit; go 1.22
+go.dtapp.net/gotime
+# gopkg.in/natefinch/lumberjack.v2 v2.2.1
+## explicit; go 1.13
+gopkg.in/natefinch/lumberjack.v2
